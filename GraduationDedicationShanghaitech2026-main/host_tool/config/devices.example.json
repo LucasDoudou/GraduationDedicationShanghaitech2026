@@ -1,0 +1,32 @@
+{
+  "devices": [
+    {
+      "role_id": 1,
+      "slot": 1,
+      "uid_hash": "0x00000000",
+      "name": "board_7",
+      "enabled": true
+    },
+    {
+      "role_id": 10,
+      "slot": 2,
+      "uid_hash": "0x00000000",
+      "name": "board_11",
+      "enabled": true
+    },
+    {
+      "role_id": 19,
+      "slot": 3,
+      "uid_hash": "0x00000000",
+      "name": "board_13",
+      "enabled": true
+    },
+    {
+      "role_id": 8,
+      "slot": 4,
+      "uid_hash": "0x00000000",
+      "name": "board_18",
+      "enabled": true
+    }
+  ]
+}
